@@ -2,7 +2,7 @@
 
 *GROK*
 --DON = 1-2-3-4-5-6-7-
---NOT DON AND IMPORTANT =8/ --cmd= merge - 
+--NOT DON AND IMPORTANT =8-10/ --cmd= merge - diff
 *GEMINI*
 --DON = 
 *CHATGPT*
@@ -13,4 +13,4 @@
 --DON =
 
 //INFO//
-
+ila drti lchi hada add o biti trj3ha kadir : git restore --staged smito
