@@ -2,9 +2,10 @@
 
 *GROK*
 --DON = 1-2-3-4-5-6-7-
---NOT DON AND IMPORTANT =8-10/ --cmd= merge - diff
+--NOT DON AND IMPORTANT =8-10/ --cmd= merge - diff *fhmthom*
 *GEMINI*
---DON = 
+--DON = 1-2-3-4-5-6-7-8-
+--NOT DON AND IMPORTANT =9/ -- *fhmthom*
 *CHATGPT*
 --DON =
 *COOPILOT*
