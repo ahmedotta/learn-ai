@@ -4,8 +4,8 @@
 --DON = 1-2-3-4-5-6-7-
 --NOT DON AND IMPORTANT =8-10/ --cmd= merge - diff *fhmthom*
 *GEMINI*
---DON = 1-2-3-4-5-6-7-8-
---NOT DON AND IMPORTANT =9/ -- *fhmthom*
+--DON = 1-2-3-4-5-6-7-8-10/
+--NOT DON AND IMPORTANT =9/ --cmd = git remote add origin https: - *fhmthom*
 *CHATGPT*
 --DON =
 *COOPILOT*
@@ -15,3 +15,4 @@
 
 //INFO//
 ila drti lchi hada add o biti trj3ha kadir : git restore --staged smito
+
